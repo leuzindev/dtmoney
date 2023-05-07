@@ -93,6 +93,6 @@ ___
 ___
 
 
-Made with ❤️ by André Viapiana 👋🏽 [Get in Touch!](https://www.linkedin.com/in/andreviapiana/)
+Made with ❤️ by Leuzin dev 👋🏽 [Get in Touch!](https://www.linkedin.com/in/leonardodevs/)
 
 ---
