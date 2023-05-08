@@ -1,17 +1,16 @@
-import { ThemeProvider } from "styled-components";
-import { defaultTheme } from "./styles/themes/default";
-
+import { ThemeProvider } from 'styled-components'
+import { defaultTheme } from './styles/themes/default'
+import { GlobalStyle } from './styles/global'
+import { Transactions } from './pages/Transactions'
+import { TransactionsProvider } from './context/TransactionContext'
 
 export function App() {
-
-
   return (
-    <>
-     <ThemeProvider theme={defaultTheme}>
-        <h1>Test</h1>
-     </ThemeProvider>
-    </>
+    <ThemeProvider theme={defaultTheme}>
+      <TransactionsProvider>
+        <Transactions />
+      </TransactionsProvider>
+      <GlobalStyle />
+    </ThemeProvider>
   )
 }
-
-

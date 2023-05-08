@@ -1,0 +1,140 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2020-01-08T00:28:38.883Z"
+    },
+    {
+      "id": 2,
+      "description": "Desenvolvimento de Backend",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 4300,
+      "createdAt": "2021-02-08T00:28:38.883Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de Front-End",
+      "type": "income",
+      "category": "Venda",
+      "price": 1000,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 3,
+      "description": "Lance",
+      "type": "income",
+      "category": "Venda",
+      "price": 4300,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 4,
+      "description": "Passagem de Onibus",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 7000,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 5,
+      "description": "Itau",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 6,
+      "description": "Lance",
+      "type": "income",
+      "category": "Venda",
+      "price": 4300,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 7,
+      "description": "Passagem de Onibus",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 7000,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 8,
+      "description": "Itau",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 9,
+      "description": "Itau",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 10,
+      "description": "Lance",
+      "type": "income",
+      "category": "Venda",
+      "price": 4300,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "id": 11,
+      "description": "Passagem de Onibus",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 7000,
+      "createdAt": "2023-04-08T00:28:38.883Z"
+    },
+    {
+      "description": "Nova",
+      "price": 12,
+      "category": "Testes",
+      "type": "income",
+      "createdAt": "2023-05-08T02:26:48.720Z",
+      "id": 12
+    },
+    {
+      "description": "Teste income",
+      "price": 23,
+      "category": "bd",
+      "type": "outcome",
+      "createdAt": "2023-05-08T02:27:05.174Z",
+      "id": 13
+    },
+    {
+      "description": "dsad",
+      "price": 1234,
+      "category": "sadas",
+      "type": "outcome",
+      "createdAt": "2023-05-08T02:27:48.343Z",
+      "id": 14
+    },
+    {
+      "description": "rewrw",
+      "price": 3123,
+      "category": "dffsff",
+      "type": "outcome",
+      "createdAt": "2023-05-08T02:28:32.130Z",
+      "id": 15
+    },
+    {
+      "description": "boooo",
+      "price": 12,
+      "category": "sadas",
+      "type": "income",
+      "createdAt": "2023-05-08T02:40:25.270Z",
+      "id": 16
+    }
+  ]
+}
